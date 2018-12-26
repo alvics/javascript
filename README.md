@@ -1,2 +1,2 @@
 # JavaScript ES6
-## Fundermaentals for React Development
+## Fundamentals for Web Development
